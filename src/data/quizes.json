@@ -1,0 +1,294 @@
+[
+  {
+    "id": 1,
+    "img": "https://msutexas.edu/academics/scienceandmath/mathematics/_assets/images/mathematics_image.jpg",
+    "name": "Math",
+    "questions": [
+      {
+        "id": 1,
+        "text": "8 / 2(2/2)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "16",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "8",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "24",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "sqrt(64) * 9",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "81",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "72",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "144",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "3 + 3 x 3 /3 - 3",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "0",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "14",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "11",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "https://i.ytimg.com/vi/BpdtOdLJnlk/maxresdefault.jpg",
+    "name": "Biology",
+    "questions": [
+      {
+        "id": 1,
+        "text": "The kreb Cycles occurs in the...",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Mitochondria",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Nucleus",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Rough ER",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Cystol",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "How many oxigen molecules can hemoglobin hold?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "3",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "4",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "The cones see ___ while the rods see ___",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "black and white",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "color",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "3D",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "2D",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "https://images.theconversation.com/files/121885/original/image-20160510-20731-1pf8nwv.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop",
+    "name": "Chemistry",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the compostion of table salt",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "NaCl",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "K2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "NaCl2C4H7",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "CH4",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "What is the nomeclatur of potasium",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Na",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "P",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Fe",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "K",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "The cones see ___ while the rods see ___",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "black and white",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "color",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "3D",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "2D",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+  
+]
